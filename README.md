@@ -1,7 +1,7 @@
 # evm-contracts
 
 
-主网和测试网合约地址
+## List of mainnet and testnet contract addresses
 
 |token name| mainnet | polaris |
 | :--- | :--- | :--- |
